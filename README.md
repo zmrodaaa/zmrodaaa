@@ -4,7 +4,7 @@ Hi there! I'm **Wessam**, a **Computer Science student** passionate about **prob
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages, Tools, and Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
