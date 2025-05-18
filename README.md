@@ -1,47 +1,71 @@
-# 💻 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub!
 
-Hi there! I'm **Wessam**, a **Computer Science student** passionate about **problem-solving** and creating efficient, scalable solutions. I specialize in **Python**, **C**, **C++**, and **Java**, with an interest in **.NET** and **Machine Learning**. Always eager to learn new technologies and contribute to exciting projects! 🚀
-
----
-
-## 🛠 **Technologies & Tools**
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-**Other Tools**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) *(coming soon)*
+Hi there! I'm **Wessam**, a **Computer Science student** passionate about **problem-solving**, clean code, and building scalable, efficient solutions. I specialize in **Python**, **C**, **C++**, and **Java**, with a growing focus on **Artificial Intelligence** and **Machine Learning**. I'm always eager to learn, explore new technologies, and contribute to exciting projects! 🚀
 
 ---
 
-## 🌱 **Currently Learning**
-- 🔄 **.NET** to build robust applications.
-- 🤖 **Machine Learning** & **AI** to expand problem-solving capabilities.
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+</p>
 
 ---
 
-## 📫 **How to Reach Me**
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wessamshaheen03@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wessam-mahmoud-b42a7a251)  
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/FenU7YRw)
+## 🌱 Currently Learning
+
+- 🤖 **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build smarter, data-driven systems.
+- 🧠 Exploring ML models, neural networks, and real-world AI applications.
 
 ---
 
-## 📈 **GitHub Stats** 📈
-![Your Stats](https://github-readme-stats.vercel.app/api?username=zmrodaaa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📬 Contact Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/wessam-mahmoud-b42a7a251" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:wessamshaheen03@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 **Let's Collaborate!**
-I love collaborating on open-source projects and creating **innovative solutions** together! Feel free to reach out for **collaborations** or **tech discussions**. Let’s make something amazing! 💡
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zmrodaaa&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmrodaaa&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-*Thanks for visiting my GitHub! Keep checking out my repositories, and don’t forget to star ⭐ your favorite projects!*
+## 🤝 Open to Collaborations
+
+I'm always up for teaming up on open-source projects, cool ideas, or simply sharing knowledge.  
+If you're working on something exciting or want to discuss tech, feel free to reach out! 💬
 
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+---
+
+⭐ Thanks for stopping by! Don't forget to check out my repositories and leave a star on your favorite projects!
