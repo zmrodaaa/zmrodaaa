@@ -42,6 +42,9 @@ Hi there! I'm **Wessam**, a **Computer Science student** passionate about **prob
   <a href="https://www.linkedin.com/in/wessam-mahmoud-b42a7a251" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
+  <a href="https://discord.com/users/zmrodaaa" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
+  </a>
   <a href="mailto:wessamshaheen03@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
   </a>
